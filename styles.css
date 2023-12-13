@@ -33,6 +33,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     color: hsl(216, 12%, 54%);
+    
 }
 
 /* RATING STATE */
@@ -60,6 +61,7 @@ body {
     outline: none;
     border: none;
     color: hsl(216, 12%, 54%);
+    font-weight: 700;
 }
 
 .rating-btns:hover, .rating-btns:focus{
@@ -72,6 +74,7 @@ body {
     width: 100%;
     background-color: hsl(25, 97%, 53%);
     color: white;
+    letter-spacing: 0.2rem;
 }
 
 .big-text{
