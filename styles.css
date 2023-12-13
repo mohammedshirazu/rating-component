@@ -75,6 +75,7 @@ body {
     background-color: hsl(25, 97%, 53%);
     color: white;
     letter-spacing: 0.2rem;
+    text-transform: uppercase;
 }
 
 .big-text{
